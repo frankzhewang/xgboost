@@ -1,3 +1,6 @@
+# compiler
+CC = /usr/local/bin/gcc
+CXX = /usr/local/bin/g++
 # package root
 PKGROOT=../../
 # _*_ mode: Makefile; _*_
